@@ -52,7 +52,7 @@ After the wizard is started there are several steps that needs to be completed i
          - Enter the name of your transport request in the Transport Request field or choose it from the dropdown if you choose "Choose from existing" in the above field.
    2. Press the Finish button.
 
-   NOTE: If you had difficulties in creating package and transport request from [Chapter 1.3](/chapters/1.3-optional-adt/) you can use the following data:
+   NOTE: If you had difficulties in creating package and transport request from [Chapter 1.3](/chapters/1.3-create-package-adt/) you can use the following data:
    - Package: Z_UI5CON_HANDSON
    - Transport Request: TRLK911207
   
